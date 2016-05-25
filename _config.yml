@@ -1,7 +1,7 @@
 name: chiefcommander
 favicon: null
-layout_spectrum: 0.7039418118074536
-typography_spectrum: 0.9396382614504546
+layout_spectrum: 0.89341
+typography_spectrum: 0.39944
 title: 'CHIEF COMMANDER '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8348993309773505
+    - '#fefb80'
+    - '#c14427'
+    - '#00fcff'
+    - '#5dfcff'
+    - '#dea79a'
+  brandStrength: 0.25
   lightness: 0.22863416047766805
-  saturation: 0.292226315010339
-  rhythmicContrast: 0.8087868557777256
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
