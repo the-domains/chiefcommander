@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CHIEF COMMANDER ]]></title>
         <description><![CDATA[CHIEF COMMANDER ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chiefcommander/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 03:00:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 May 2016 03:01:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chiefcommander/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>CHIEF COMMANDER is taking over. It's for the greater good. </p>]]></description>
+            <link>https://thegrid.ai/chiefcommander/chief-commander-is-taking-over-its-for-the-greater-good/index.html</link>
+            <guid isPermaLink="false">9fe233d1-9d1c-4571-bd3f-6c7c477b0d44</guid>
+            <pubDate>Wed, 25 May 2016 03:01:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cd61b7a-efd0-4534-8af5-bbe1e17f95b2.jpg">]]></description>
-            <link>undefined8336fa28-9439-435c-ba33-670f000da87e/index.html</link>
+            <link>https://thegrid.ai/chiefcommander/8336fa28-9439-435c-ba33-670f000da87e/index.html</link>
             <guid isPermaLink="false">8336fa28-9439-435c-ba33-670f000da87e</guid>
             <pubDate>Wed, 25 May 2016 03:00:04 GMT</pubDate>
         </item>
